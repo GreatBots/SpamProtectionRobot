@@ -4,6 +4,7 @@ from datetime import datetime
 from math import ceil
 from time import time, ctime
 
+from pyrogram import enums
 from pyrogram.types import InlineKeyboardButton, ChatMemberUpdated
 
 
